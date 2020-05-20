@@ -6,8 +6,9 @@
 
 ##### Bug Fixes
 
-* None.  
-
+* Improve handling of users not having access to their netrc file.  
+  [Orta Therox](https://github.com/orta)
+  [CocoaPods#5411](https://github.com/CocoaPods/CocoaPods/issues/5411)
 
 ## 1.5.0 (2020-05-01)
 
